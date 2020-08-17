@@ -41,7 +41,6 @@ export class DataService {
         },
         (error) => console.log('error al eliminar ersonar')
       );
-
   }
 
 }
