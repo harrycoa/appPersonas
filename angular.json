@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appPersonas"
+    }
+  },
+  "defaultProject": "appPersonas",
+  "cli": {
+    "analytics": false
+  }
 }
